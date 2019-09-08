@@ -138,16 +138,17 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+
 	}
 
 		h2.alt {
-			color: #FFF;
+			color: #333;
 			font-family: 'Pacifico', cursive;
 			font-size:4em;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: #333;
 			}
 
 	h3 {
@@ -2244,11 +2245,11 @@ input, select, textarea {
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-					color: inherit;
+					/*color: inherit;*/
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					/*color: #fff;*/
 					border-color: inherit;
 				}
 
@@ -2268,7 +2269,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #ffc9f2;
+				background-color: #f5bae1;
 				background-image: url("../images/pink_cloud.jpg");
 			}
 
