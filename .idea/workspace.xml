@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e83ce54-0719-4a5d-acb6-565e4fc3401f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/598_project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pendulum.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +17,7 @@
     <session id="1242518083">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -78,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="655" column="9" lean-forward="true" selection-start-line="655" selection-start-column="9" selection-end-line="655" selection-end-column="9" />
+            <state relative-caret-position="206">
+              <caret line="2249" lean-forward="true" selection-start-line="2249" selection-end-line="2249" />
             </state>
           </provider>
         </entry>
@@ -88,8 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ma</find>
-      <find>highlights</find>
       <find>main</find>
       <find>font</find>
       <find>font-family</find>
@@ -118,6 +112,8 @@
       <find>h2</find>
       <find>333</find>
       <find>color</find>
+      <find>#333</find>
+      <find>inherit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -213,12 +209,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567539556406</updated>
       <workItem from="1567539557628" duration="33025000" />
-      <workItem from="1567912986297" duration="1701000" />
+      <workItem from="1567912986297" duration="2029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34726000" />
+    <option name="totallyTimeSpent" value="35054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -296,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="655" column="9" lean-forward="true" selection-start-line="655" selection-start-column="9" selection-end-line="655" selection-end-column="9" />
+        <state relative-caret-position="206">
+          <caret line="2249" lean-forward="true" selection-start-line="2249" selection-end-line="2249" />
         </state>
       </provider>
     </entry>
